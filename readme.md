@@ -10,3 +10,5 @@ This notebook contains following topics of nltk:
 - Parts of Speech Tagging
 - Named Entity Recognition
 - Spacy
+- Chunking
+- Chinking
